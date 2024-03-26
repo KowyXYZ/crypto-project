@@ -68,7 +68,7 @@ const Navbar = () => {
       <div className='flex relative justify-between items-center md:container md:mx-auto mx-8'>
 
             <div className='flex gap-5 justify-center items-center'>
-              <Image src='/assets/logo.png' width={40} height={40}/>
+              <Image src='/assets/logo.png' width={40} height={40} alt='test'/>
               <p className='font-black text-[20px] '>CRAPPO</p>
             </div>
 

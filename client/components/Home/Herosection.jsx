@@ -21,7 +21,7 @@ const Herosection = () => {
 
 
           <div>
-            <Image src='/assets/heroimg.png' width={600} height={600} className='object-contain w-full h-full'/>
+            <Image src='/assets/heroimg.png' width={600} height={600} className='object-contain w-full h-full' alt='test'/>
           </div>
         </div>
     </div>

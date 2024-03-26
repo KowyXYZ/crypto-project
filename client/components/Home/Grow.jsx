@@ -14,7 +14,7 @@ const Grow = () => {
                 </div>
 
                 <div className='flex justify-center items-center mt-12 sm:mt-0'>
-                    <Image src='/assets/growth.png' width={800} height={800} className='object-contain  w-full h-full'/>
+                    <Image src='/assets/growth.png' width={800} height={800} className='object-contain  w-full h-full' alt='start'/>
                 </div>
             </div>
         </div>

@@ -8,7 +8,7 @@ const Stats = () => {
 
           <div className='flex justify-between sm:justify-center items-center gap-3'>
             <div className='p-4 bg-[#fff] rounded-full bg-opacity-10 hidden sm:flex w-[60px]'>
-             <Image src='/assets/stats.png' width={500} height={500} className='object-contain w-full'/>
+             <Image src='/assets/stats.png' width={500} height={500} className='object-contain w-full' alt='test'/>
             </div>
           
             <div className='flex items-center sm:items-start justify-center flex-col '>
@@ -22,7 +22,7 @@ const Stats = () => {
 
           <div className='flex justify-center items-center gap-3'>
             <div className='p-4 bg-[#fff] rounded-full bg-opacity-10 hidden sm:flex  w-[60px]'>
-             <Image src='/assets/user.png' width={500} height={500} className='object-contain w-full'/>
+             <Image src='/assets/user.png' width={500} height={500} className='object-contain w-full' alt='test'/>
             </div>
           
             <div className='flex items-center sm:items-start justify-center flex-col '>
@@ -36,7 +36,7 @@ const Stats = () => {
 
             <div className='flex justify-center items-center gap-3'>
             <div className='p-4 bg-[#fff] rounded-full bg-opacity-10 hidden sm:flex  w-[60px]'>
-             <Image src='/assets/globe.png' width={500} height={500} className='object-contain w-full'/>
+             <Image src='/assets/globe.png' width={500} height={500} className='object-contain w-full' alt='test'/>
             </div>
           
             <div className='flex items-center sm:items-start justify-center flex-col '>
